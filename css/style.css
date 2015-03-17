@@ -162,7 +162,9 @@ b {
   float: right;
 }
 .app-images {
-  border: dodgerblue;
+  border-color: dodgerblue;
+  border-width: 5px;
+  border-style: solid;
   width: 500px;
   height: 350px;
   float: left;
